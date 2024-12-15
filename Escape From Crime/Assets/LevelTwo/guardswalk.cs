@@ -2,11 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Escape From Crime/Assets/LevelTwo/MonoBehaviour.cs
 public class MonoBehaviour1 : MonoBehaviour2
 =======
 public class guardswalk : MonoBehaviour
 >>>>>>> Stashed changes:Escape From Crime/Assets/LevelTwo/guardswalk.cs
+=======
+public class guardswalk : MonoBehaviour
+>>>>>>> Stashed changes
 {
     /// Start is called before the first frame update
   
