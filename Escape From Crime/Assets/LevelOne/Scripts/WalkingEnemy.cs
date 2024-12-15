@@ -31,7 +31,7 @@ new Vector2(maxSpeed, this.GetComponent<Rigidbody2D>().velocity.y);
     }
     if(collider.tag == "Player")
     {
-        FindObjectOfType<PlayerStats>().TakeDamage(damage);
+        FindObjectOfType<PlayerStatslevel2>().TakeDamage(damage);
       Flip();
     }
    }

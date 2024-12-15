@@ -17,6 +17,7 @@ public class PlayerStatslevel2 : MonoBehaviour
     public float immunityDuration=1.5f;
 
     public int keyCount=0;
+    public int letterCount= 0;
 
     void Start()
     {
@@ -39,6 +40,14 @@ public class PlayerStatslevel2 : MonoBehaviour
         this.keyCount = this.keyCount + 1;
         Debug.Log("You aquired a key hooray!!");
         Debug.Log("You have " + keyCount + " Keys!");
+        }
+
+
+   public void ActivateLetter()
+        {
+        this.letterCount = this.letterCount + 1;
+        Debug.Log("You aquired a letter hooray!!");
+        Debug.Log("You have " + letterCount + " Keys!");
         }
 
  
