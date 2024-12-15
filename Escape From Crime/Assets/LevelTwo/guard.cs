@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MonoBehaviour : MonoBehaviour
+public class MonoBehaviour2 : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject meatPrefab; // Reference to the meat prefab
