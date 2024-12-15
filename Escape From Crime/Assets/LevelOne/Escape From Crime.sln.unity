@@ -837,7 +837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef51b346556f8440bab67beeb1b651b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetZoom: 3
+  TargetZoom: 4
   ZoomSpeed: 3
 --- !u!114 &519420034
 MonoBehaviour:
@@ -851,8 +851,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d68b2c95b9bcf4d53b35ebf14aa21cf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ZoomSpeed: 0
-  Zbutton: 0
+  ZoomSpeed: 1.5
+  Zbutton: 122
 --- !u!114 &519420035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -865,12 +865,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af79034c6599e498a8d97ce21c4355c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Target: {fileID: 0}
-  Cameraspeed: 0
+  Target: {fileID: 729101107}
+  Cameraspeed: 4
   minX: 0
-  maxX: 0
-  minY: 0
-  maxY: 0
+  maxX: 100
+  minY: -1
+  maxY: 12
 --- !u!1 &563626133
 GameObject:
   m_ObjectHideFlags: 0
@@ -1231,7 +1231,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1691020943
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -1266447912, guid: fd78beae7bdf848b5a246842786d8251, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1292,8 +1292,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64a938d30bce840549c40512d979825e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 9
-  jumpheight: 5
+  moveSpeed: 5
+  jumpheight: 9
   Spacebar: 32
   L: 276
   R: 275
@@ -1720,7 +1720,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1691020943
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -552961203, guid: bc3587b3083764fabb3b08dc9abd9455, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
