@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControllerLevel2 : MonoBehaviour{
- public float moveSpeed;
+public class PlayerController2 : MonoBehaviour
+
+{
+    public float moveSpeed;
     public float jumpheight;
     public KeyCode Spacebar;
     public KeyCode L;
