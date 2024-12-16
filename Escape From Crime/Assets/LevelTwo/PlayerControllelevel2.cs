@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController2 : MonoBehaviour
-
+public class PlayerControllelevel2 : MonoBehaviour
 {
     public float moveSpeed;
     public float jumpheight;

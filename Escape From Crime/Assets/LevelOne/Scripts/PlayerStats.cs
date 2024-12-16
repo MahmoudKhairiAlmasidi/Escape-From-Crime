@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerStatslevel2 : MonoBehaviour
+public class PlayerStats : MonoBehaviour
 {
     public int health=6;
     public int lives=3;
@@ -16,8 +16,7 @@ public class PlayerStatslevel2 : MonoBehaviour
     private float immunityTime=0f;
     public float immunityDuration=1.5f;
 
-    public int keyCount=0;
-    public int letterCount= 0;
+    public int coinsCollected=0;
 
     void Start()
     {
@@ -34,23 +33,7 @@ public class PlayerStatslevel2 : MonoBehaviour
             this.flickerTime=0;
         }
     }
-
-    public void ActivateKey()
-        {
-        this.keyCount = this.keyCount + 1;
-        Debug.Log("You aquired a key hooray!!");
-        Debug.Log("You have " + keyCount + " Keys!");
-        }
-
-
-   public void ActivateLetter()
-        {
-        this.letterCount = this.letterCount + 1;
-        Debug.Log("You aquired a letter hooray!!");
-        Debug.Log("You have " + letterCount + " Keys!");
-        }
-
- 
+    
     void Update()
     {
         if(this.isImmune==true){
@@ -69,7 +52,7 @@ public class PlayerStatslevel2 : MonoBehaviour
             if(this.health<0)
             this.health=0;
             if (this.lives>0 && this.health==0){
-                FindObjectOfType<levelmanager2>().RespawnPlayer();
+                FindObjectOfType<LevelManager>().RespawnPlayer();
                 this.health=6;
                 this.lives--;
             }
