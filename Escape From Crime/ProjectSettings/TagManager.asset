@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - MiniBoss
   - boss
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 503467875
+    locked: 0
+  - name: Foreground
+    uniqueID: 468126491
+    locked: 0
+  - name: Player
+    uniqueID: 1374256867
     locked: 0
