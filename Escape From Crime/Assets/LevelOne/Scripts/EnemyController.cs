@@ -18,7 +18,7 @@ public class EnemyController : MonoBehaviour
    {
     if (other.tag == "Player")
     {
-        FindObjectOfType<PlayerStatslevel2>().TakeDamage(damage);
+        FindObjectOfType<PlayerStats>().TakeDamage(damage);
     }
    }
    
