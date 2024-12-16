@@ -100,8 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 8
-  speed: 10
-  ZombieDamage: {fileID: 0}
+  speed: 20
 --- !u!50 &8451091577649324218
 Rigidbody2D:
   serializedVersion: 4

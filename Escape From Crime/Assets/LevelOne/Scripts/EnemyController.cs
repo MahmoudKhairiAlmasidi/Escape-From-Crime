@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyController5 : MonoBehaviour
+public class EnemyController : MonoBehaviour
 {
    public bool isFacingRight = false;
    public float maxSpeed = 3f;

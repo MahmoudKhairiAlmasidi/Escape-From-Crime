@@ -7,7 +7,7 @@ public class bulletcontroller5 : MonoBehaviour
     public int damage=8;
     public float speed=10;
     private Rigidbody2D rb;
-     public AudioClip ZombieDamage;
+     
     
      
     
@@ -41,12 +41,18 @@ public class bulletcontroller5 : MonoBehaviour
     {
         if (other.CompareTag("Enemy"))
         {
-            AudioManager.instance.PlaySingle(ZombieDamage);
+            
             Destroy(other.gameObject);
             Destroy(this.gameObject);
         }
         else if (other.CompareTag("wall")){
             Destroy(this.gameObject);
+        }
+
+        else if (other.CompareTag("boss"))
+        {   
+           FindObjectOfType<EnemyStats5>().TakeDamage(damage);
+            Destroy(gameObject);
         }
 
         

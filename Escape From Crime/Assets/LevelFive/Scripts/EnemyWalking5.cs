@@ -23,7 +23,7 @@ public class EnemyWalking5 : EnemyController5
                 Flip();
             }
             if(collider.tag == "Player"){
-                FindObjectOfType<PlayerStats>().TakeDamage(damage);
+                FindObjectOfType<PlayerStats5>().TakeDamage(damage);
                 Flip();
             }
         }
