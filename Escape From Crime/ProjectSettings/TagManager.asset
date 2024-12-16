@@ -12,12 +12,21 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< Updated upstream
   - ground
   - Water
   - UI
   - 
   - 
   - 
+=======
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Player
+>>>>>>> Stashed changes
   - 
   - 
   - 
@@ -46,6 +55,7 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
+<<<<<<< Updated upstream
     uniqueID: 503467875
     locked: 0
   - name: Foreground
@@ -53,4 +63,13 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1374256867
+=======
+    uniqueID: 1942819363
+    locked: 0
+  - name: Foreground
+    uniqueID: 1125829479
+    locked: 0
+  - name: Player
+    uniqueID: 3125606317
+>>>>>>> Stashed changes
     locked: 0

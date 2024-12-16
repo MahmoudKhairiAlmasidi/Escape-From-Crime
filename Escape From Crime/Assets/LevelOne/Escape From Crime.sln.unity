@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7706748}
   - component: {fileID: 7706749}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -193,9 +193,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -217,7 +223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78156998}
   - component: {fileID: 78156999}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -277,9 +283,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -346,7 +358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 161404620}
   - component: {fileID: 161404621}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,9 +418,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -514,7 +532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 273486533}
   - component: {fileID: 273486534}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -574,9 +592,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -598,7 +622,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300881911}
   - component: {fileID: 300881912}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -658,9 +682,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -683,7 +713,7 @@ GameObject:
   - component: {fileID: 413943995}
   - component: {fileID: 413943997}
   - component: {fileID: 413943996}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: table2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1181,7 +1211,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566139056}
   - component: {fileID: 566139057}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1241,9 +1271,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1265,7 +1301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 573677594}
   - component: {fileID: 573677595}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1325,9 +1361,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1615,8 +1657,13 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 1374256867
   m_SortingLayer: 3
+=======
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+>>>>>>> Stashed changes
   m_SortingOrder: 0
   m_Sprite: {fileID: -1266447912, guid: fd78beae7bdf848b5a246842786d8251, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1700,7 +1747,7 @@ GameObject:
   m_Component:
   - component: {fileID: 788786893}
   - component: {fileID: 788786894}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1760,9 +1807,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1784,7 +1837,7 @@ GameObject:
   m_Component:
   - component: {fileID: 795596008}
   - component: {fileID: 795596009}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1844,9 +1897,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1868,7 +1927,7 @@ GameObject:
   m_Component:
   - component: {fileID: 800104707}
   - component: {fileID: 800104708}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1928,9 +1987,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1952,7 +2017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 813111018}
   - component: {fileID: 813111019}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2012,9 +2077,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2105,8 +2176,13 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 1374256867
   m_SortingLayer: 3
+=======
+  m_SortingLayerID: 1691020943
+  m_SortingLayer: 0
+>>>>>>> Stashed changes
   m_SortingOrder: 0
   m_Sprite: {fileID: -552961203, guid: bc3587b3083764fabb3b08dc9abd9455, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2461,7 +2537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 901663298}
   - component: {fileID: 901663299}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2521,9 +2597,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2629,7 +2711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 928442477}
   - component: {fileID: 928442478}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2689,9 +2771,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2713,7 +2801,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1020786423}
   - component: {fileID: 1020786424}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2773,9 +2861,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2797,7 +2891,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1036936796}
   - component: {fileID: 1036936797}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2857,9 +2951,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2965,7 +3065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1200408240}
   - component: {fileID: 1200408241}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3025,9 +3125,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3133,7 +3239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1356092052}
   - component: {fileID: 1356092053}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3193,9 +3299,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3517,7 +3629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1634746082}
   - component: {fileID: 1634746083}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3577,9 +3689,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3601,7 +3719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1777957412}
   - component: {fileID: 1777957413}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3661,9 +3779,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3716,7 +3840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1830136921}
   - component: {fileID: 1830136920}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grid
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3761,7 +3885,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1843970065}
   - component: {fileID: 1843970064}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3806,9 +3930,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3871,7 +4001,7 @@ GameObject:
   - component: {fileID: 1870337685}
   - component: {fileID: 1870337684}
   - component: {fileID: 1870337683}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: Ground
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -16114,7 +16244,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1908227599}
   - component: {fileID: 1908227600}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16174,9 +16304,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16328,7 +16464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1927153290}
   - component: {fileID: 1927153291}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16388,9 +16524,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16413,7 +16555,7 @@ GameObject:
   - component: {fileID: 1968513130}
   - component: {fileID: 1968513129}
   - component: {fileID: 1968513128}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: table2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16484,8 +16626,13 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: -59462789
   m_SortingLayer: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+>>>>>>> Stashed changes
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3089bf17cdd4d4cd0929072ff700a3d9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -16524,7 +16671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2002560514}
   - component: {fileID: 2002560515}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16584,9 +16731,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16608,7 +16761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2009675037}
   - component: {fileID: 2009675038}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16668,9 +16821,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16692,7 +16851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2117859873}
   - component: {fileID: 2117859874}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: doorblue23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16752,9 +16911,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< Updated upstream
   m_SortingLayerID: 503467875
   m_SortingLayer: 1
   m_SortingOrder: 0
+=======
+  m_SortingLayerID: 1125829479
+  m_SortingLayer: 2
+  m_SortingOrder: 1
+>>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 2a55a291364c24611aba8c46c58c995b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
